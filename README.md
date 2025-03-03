@@ -1,6 +1,6 @@
 # Lucas Cincunegui
 
-** Estudante **
+**Estudante**
 
 Cursando Análise e Desenvolvimento de Sistemas.  
 Você pode ver um resumo do meu portfolio [<ins>aqui</ins>](https://meu-curriculo-plum.vercel.app/).
