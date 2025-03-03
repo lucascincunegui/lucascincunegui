@@ -11,7 +11,7 @@ Sou **Estudante**, estou cursando Análise e Desenvolvimento de Sistemas.
 
 ### Conhecimento na prática
 
-Você pode ver um resumo do meu portfolio [<ins target="_blank">aqui</ins>](https://meu-curriculo-plum.vercel.app/).
+Você pode ver um resumo do meu portfolio [<ins>aqui</ins>](https://meu-curriculo-plum.vercel.app/).
 
 <!--
 **lucascincunegui/lucascincunegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
