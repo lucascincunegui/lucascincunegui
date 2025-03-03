@@ -1,9 +1,6 @@
 # Lucas Cincunegui
 
-**Estudante**
-
-- Cursando Análise e Desenvolvimento de Sistemas.  
-- Você pode ver um resumo do meu portfolio [<ins>aqui</ins>](https://meu-curriculo-plum.vercel.app/).
+Sou **Estudante**, estou cursando Análise e Desenvolvimento de Sistemas.  
 
 ## Tenho algum conhecimento em:
 
@@ -11,6 +8,10 @@
 - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" width=20> React
 - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Figma-Dark.svg" width=20> Figma
 - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width=20> Git 
+
+###
+
+Você pode ver um resumo do meu portfolio [<ins>aqui</ins>](https://meu-curriculo-plum.vercel.app/).
 
 <!--
 **lucascincunegui/lucascincunegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
