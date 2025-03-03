@@ -1,7 +1,7 @@
 ## Sobre mim:
 
 Cursando Análise e Desenvolvimento de Sistemas.
-Você pode ver um resumo do meu portfolio [aqui(https://meu-curriculo-plum.vercel.app/)].
+Você pode ver um resumo do meu portfolio [<ins>aqui</ins>](https://meu-curriculo-plum.vercel.app/).
 
 
 <!--
