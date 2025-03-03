@@ -1,9 +1,13 @@
-### Sobre mim:
+# Lucas Cincunegui
+
+** Estudante **
 
 Cursando Análise e Desenvolvimento de Sistemas.  
 Você pode ver um resumo do meu portfolio [<ins>aqui</ins>](https://meu-curriculo-plum.vercel.app/).
 
+## Languages
 
+Javascript
 <!--
 **lucascincunegui/lucascincunegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
