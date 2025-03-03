@@ -7,7 +7,11 @@
 
 ## Tenho algum conhecimento em:
 
-Javascript, react, git, jira, figma <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Figma-Light.svg" width=60%>
+- Javascript <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Javascript.svg" width=10%>
+- React <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Light.svg" width=10%>
+- Figma <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Figma-Light.svg" width=10%>
+- Git <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width=10%>
+- Jira <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Jira.svg" width=10%>
 
 <!--
 **lucascincunegui/lucascincunegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
