@@ -8,8 +8,8 @@
 ## Tenho algum conhecimento em:
 
 - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" width=20> Javascript
-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Light.svg" width=20> React
-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Figma-Light.svg" width=20> Figma
+- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" width=20> React
+- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Figma-Dark.svg" width=20> Figma
 - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width=20> Git 
 
 <!--
