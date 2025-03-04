@@ -1,6 +1,6 @@
 # Lucas Cincunegui
 
-Sou **Estudante**, estou cursando Análise e Desenvolvimento de Sistemas.  
+Sou **estudante**, estou cursando Análise e Desenvolvimento de Sistemas.  
 
   
 ## Meus conhecimentos:
