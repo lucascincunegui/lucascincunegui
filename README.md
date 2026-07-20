@@ -1,6 +1,6 @@
 # Lucas Cincunegui
 
-Sou **Junior Developer**, formado em Análise e Desenvolvimento de Sistemas.  
+Sou **Web Developer**, formado em Análise e Desenvolvimento de Sistemas.  
 
   
 ## Meus conhecimentos:
